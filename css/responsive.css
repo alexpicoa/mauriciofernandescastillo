@@ -46,7 +46,8 @@
   }
 
   .header-content h1 {
-    font-size: 30px;
+    font-size: 50px;
+    line-height: 50px;
   }
   /* About */
   .head-info .header-content .cmaster h1 {
@@ -119,8 +120,11 @@
     padding-top: 15px;
     display: block;
   }
+  #header{
+    background: repeat scroll left left / cover;
+  }
   .header-content h1 {
-    font-size: 45px;
+    font-size: 40px;
     line-height: 40px;
   }
   /* About */
@@ -194,6 +198,10 @@
     padding-top: 15px;
     display: block;
   }
+  .header-content h1 {
+    font-size: 40px;
+    line-height: 40px;
+  }
   /* About */
   .head-info .header-content h1 {
     font-size: 32px;
@@ -260,6 +268,17 @@
     padding-top: 10px;
     padding-bottom: 10px;
   }
+  .header-content h1 {
+    font-size: 35px;
+    line-height: 35px;
+  }
+
+  .header-content p {
+    font-size: 15px;
+    line-height: 15px;
+  }
+
+
   .responsive {
     float: right;
     padding-top: 15px;
@@ -329,6 +348,14 @@
     margin-left: 0;
     padding-top: 10px;
     padding-bottom: 10px;
+  }
+  .header-content h1 {
+    font-size: 25px;
+    line-height: 25px;
+  }
+  .header-content p {
+    font-size: 10px;
+    line-height: 10px;
   }
   .responsive {
     float: right;
